@@ -1,0 +1,16 @@
+{
+  "name": "jsthegoodparts",
+  "version": "1.0.0",
+  "description": "To practice JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --config build/webpack.dev.conf.js --hot",
+    "start": "npm run dev"
+  },
+  "author": "Héctor Villar Mozo",
+  "license": "ISC",
+  "dependencies": {
+    "local-web-server": "^2.6.1",
+    "node": "^11.9.0"
+  }
+}
