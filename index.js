@@ -1,2 +1,3 @@
 var log = console.log;
-var info = console.warn;
+var warn = console.warn;
+var error = console.error;

@@ -1,6 +1,6 @@
 // CHAPTER 3
 // OBJECTS
-info('\n\nCHAPTER 3\nOBJECTS\n---------------------------------------------------\n\n');
+warn('\n\nCHAPTER 3\nOBJECTS\n---------------------------------------------------\n\n');
 
 // Object Literal
 var avatar = {
